@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.gmail.com/',
+			link: 'https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox',
 		},
 		{
 			id: '3',
@@ -170,7 +170,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Dropout',
-					link: 'https://dropout.tv/',
+					link: 'https://www.dropout.tv/browse/',
 				},
 				{
 					name: 'Disney+',
